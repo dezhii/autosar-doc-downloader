@@ -136,4 +136,7 @@ pip install -r requirements.txt
    python autosar_cp_document_downloader.py
    ```
 
-3. 查看各自下载目录中的结果和日志。 
+3. 查看各自下载目录中的结果和日志。
+
+
+![image](https://github.com/user-attachments/assets/bfa4bc26-0388-482b-85b8-a304b0b82f23)
