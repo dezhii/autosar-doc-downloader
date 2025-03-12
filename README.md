@@ -2,6 +2,9 @@
 
 这个项目包含多个脚本，用于从AUTOSAR官方网站收集和下载不同平台（AP和CP）的文档。
 
+
+![image](https://github.com/user-attachments/assets/bfa4bc26-0388-482b-85b8-a304b0b82f23)
+
 ## 功能
 
 1. **文档收集**：从AUTOSAR网站搜索并收集文档信息，包括标题、URL和其他元数据。
@@ -138,5 +141,3 @@ pip install -r requirements.txt
 
 3. 查看各自下载目录中的结果和日志。
 
-
-![image](https://github.com/user-attachments/assets/bfa4bc26-0388-482b-85b8-a304b0b82f23)
